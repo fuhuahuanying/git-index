@@ -1,0 +1,26 @@
+{
+  "name": "git-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuhuahuanying/git-index.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuhuahuanying/git-index/issues"
+  },
+  "homepage": "https://github.com/fuhuahuanying/git-index#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
